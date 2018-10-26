@@ -10,21 +10,19 @@ body {
   align-content: center;
 }
 
-/* heading text */
 h3 {
   padding: 20px 0px 10px 0px;
 }
 
-/* link text */
 a {
-color: blue;
+color: black;
 text-decoration: none;
 }
-
-
-/* Centers images */
 
 img {
   display: block;
   margin: 0px auto;
+  max-width: 100%;
 }
+
+ @media screen and (min-width:700px){
