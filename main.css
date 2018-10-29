@@ -1,12 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Work+Sans');
 
+html{
+    background-color: #959AA1;
+}
+
 body {
   margin: 30px auto;
   max-width: 1000px;
   font-family:'Work Sans', sans-serif;
   line-height: 1.5;
   padding: 30px 20px;
-  text-align: center;
   align-content: center;
 }
 
@@ -25,4 +28,18 @@ img {
   max-width: 100%;
 }
 
- @media screen and (min-width:700px){
+nav{
+
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+  display: inline;
+  padding: 2.5rem;
+  text-align: center;
+  text-decoration: none;
+}
+ @media screen and (min-width:700px){}
