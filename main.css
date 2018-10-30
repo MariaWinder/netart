@@ -38,6 +38,7 @@ img {
 }
 
 nav{
+  text-align: center;
 
 }
 
@@ -47,7 +48,7 @@ ul{
 
 li{
   display: inline;
-  padding: 2.5rem;
+  padding: 2rem;
   text-align: center;
   text-decoration: none;
 }
