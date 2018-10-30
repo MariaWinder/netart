@@ -1,12 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Work+Sans');
 
-#yellow .yellow-lk
-
-html{
-    background-color: #959AA1;
-}
-
-
 
 body {
   margin: 30px auto;
@@ -15,6 +8,18 @@ body {
   line-height: 1.5;
   padding: 30px 20px;
   align-content: center;
+  margin-bottom: 0;
+}
+.indexbody{
+  background-color: #959AA1;
+}
+
+.yellowbody{
+  background-color: #E5D43D;
+}
+
+.copbody{
+  background-color: #3024FF;
 }
 
 h3 {
