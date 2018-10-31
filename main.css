@@ -51,13 +51,13 @@ ul{
 
 li{
   display: inline;
-  padding: 1rem;
+  padding: .75rem;
   text-align: center;
   text-decoration: none;
 }
 
 .inmar{
-  color: #E5D43D; 
+  color: #E5D43D;
 }
 
 .yellmar{
