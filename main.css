@@ -4,7 +4,7 @@
 body {
   margin: 30px auto;
   max-width: 1000px;
-  font-family:'Work Sans', sans-serif;
+  font-family: 'Baloo Bhaijaan', cursive;
   line-height: 1.5;
   padding: 30px 20px;
   align-content: center;
@@ -20,6 +20,9 @@ body {
 
 .copbody{
   background-color: #3024FF;
+}
+.damagebody{
+  background-color: #FF1D0E;
 }
 
 h3 {
@@ -48,8 +51,24 @@ ul{
 
 li{
   display: inline;
-  padding: 2rem;
+  padding: 1rem;
   text-align: center;
   text-decoration: none;
+}
+
+.inmar{
+  color: #E5D43D; 
+}
+
+.yellmar{
+  color: #3024FF;
+}
+
+.copmar{
+  color: #FF1D0E;
+}
+
+.dammar{
+  color: #959AA1;
 }
  @media screen and (min-width:700px){}
