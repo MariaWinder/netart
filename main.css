@@ -18,9 +18,14 @@ body {
 
 .copbody{
   background-color: #3024FF;
+  font-family: 'Chivo', sans-serif;
 }
 .damagebody{
   background-color: #FF1D0E;
+}
+
+.secyellbody{
+  background-color: #8C6E1E;
 }
 
 h3 {
@@ -70,10 +75,24 @@ li{
   color: #959AA1;
 }
 
+.secyellmar{
+  color: #940BE3;
+}
+
 .damvideo{
   display: block;
   align-content: center;
   margin-left: 35px;
+}
+
+.secyell{
+margin: 5px;
+  display:inline-block;
+  vertical-align: top;
+  text-align: left;
+  width: 10%;
+  margin: 20px;
+
 }
 
  @media screen and (min-width:700px){
