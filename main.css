@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Work+Sans');
-
 
 body {
   margin: 30px auto;
@@ -71,4 +69,17 @@ li{
 .dammar{
   color: #959AA1;
 }
- @media screen and (min-width:700px){}
+
+.damvideo{
+  display: block;
+  align-content: center;
+  margin-left: 35px;
+}
+
+ @media screen and (min-width:700px){
+
+img{
+  max-width: 100%;
+}
+
+ }
