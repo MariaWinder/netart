@@ -10,6 +10,8 @@ body {
 }
 .indexbody{
   background-color: #959AA1;
+  background-image: url(images/road.gif);
+  background-repeat:repeat;
 }
 
 .yellowbody{
