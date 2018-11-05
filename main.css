@@ -2,7 +2,7 @@
 body {
   margin: 30px auto;
   max-width: 1000px;
-  font-family: 'Baloo Bhaijaan', cursive;
+  font-family: 'Baloo Bhaijaan', sans-serif;
   line-height: 1.5;
   padding: 30px 20px;
   align-content: center;
@@ -26,6 +26,8 @@ body {
 
 .secyellbody{
   background-color: #8C6E1E;
+  background-image: url(images/yelloweye.jpeg);
+  background-repeat:repeat;
 }
 
 h3 {
@@ -82,7 +84,9 @@ li{
 .damvideo{
   display: block;
   align-content: center;
-  margin-left: 35px;
+  margin-top: 200px;
+  margin-left: 315px;
+  max-width: 100%;
 }
 
 .secyell{
