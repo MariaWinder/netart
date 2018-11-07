@@ -26,6 +26,7 @@ body {
 }
 .damagebody{
   background-color: #FF1D0E;
+  background-image: url(images/wall1.png);
 }
 
 .secyellbody{
@@ -87,7 +88,6 @@ li{
   color: #940BE3;
   text-align: center;
   padding: 0;
-  max-width: 100%;
 }
 
 .damvideo{
