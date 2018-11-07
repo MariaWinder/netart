@@ -88,10 +88,10 @@ li{
 
 .damvideo{
   display: block;
-  align-content: center;
   margin-top: 1000px;
-  margin-left: 315px;
   max-width: 100%;
+  text-align: center;
+
 }
 
 .secyell{
