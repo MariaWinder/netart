@@ -95,7 +95,7 @@ li{
   display: block;
   margin-top: 1000px;
   max-width: 100%;
-  text-align: center;s
+  text-align: center;
 
 }
 
@@ -123,5 +123,9 @@ img{
    margin-top: 40px;
    margin-bottom: 40px;
  }
+
+.damvideo{
+   margin-left: 200px;
+}
 
 }
